@@ -1,5 +1,7 @@
 # Introduction
 
+Japanese translation available at [https://ersanio.gitbook.io/assembly-for-the-snes/ja](https://ersanio.gitbook.io/assembly-for-the-snes/ja)
+
 This tutorial is an online version of my 65c816 assembly tutorial which is hosted on [SMW Central](https://www.smwcentral.net/). I originally wrote this tutorial in order to teach the SMW Central community the 65c816 assembly language in plain English. Nowadays, it's read by various people in the ROM hacking scene in general. Therefore, I decided to open source this tutorial on GitHub, so that people can make improvements or translations.
 
 Although I'm a member of SMW Central, this tutorial is not associated with Super Mario World, thus this tutorial is not tailored towards that game. Instead, this tutorial can be applied in all SNES context.
