@@ -19,7 +19,7 @@ SEP #$80 ;= 1000 0000
 よって、このコードはネガティブフラグを1にセットします。
 
 ## REP
-|Opcode|Full name|Explanation|
+|オペコード|正式名称|説明|
 |-|-|-|
 |**REP**|Reset processor flags|指定したプロセッサフラグを0にセットする|
 

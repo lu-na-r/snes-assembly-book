@@ -31,7 +31,7 @@ LDA #$05           ; A = $1205
 ```
 
 ## WAI
-|Opcode|Full name|Explanation|
+|オペコード|正式名称|説明|
 |-|-|-|
 |**WAI**|Wait for interrupt|NMIかIRQが発生するまでスーパーファミコンのCPUを停止する|
 
@@ -39,7 +39,7 @@ WAIは、NMIかIRQが発生するまでスーパーファミコンのCPUを停�
 実際には、このオペコードは割り込みが発生するまでWAI自身を無限に繰り返し実行し続けます。
 
 ## STP
-|Opcode|Full name|Explanation|
+|オペコード|正式名称|説明|
 |-|-|-|
 |**STP**|Stop the clock|ソフトリセット、もしくはハードリセットが発生するまでスーパーファミコンのCPUを完全に停止する（ここでの"clock"とは、CPUを指す）|
 

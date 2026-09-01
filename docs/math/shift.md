@@ -5,7 +5,7 @@
 ## ASL・LSR
 左右へビットシフトを行う2つのオペコードを紹介します。
 
-|Opcode|Full name|Explanation|
+|オペコード|正式名称|説明|
 |-|-|-|
 |**ASL**|A or memory shift left|繰り上がり無しで左シフトする。結果は数値を2で掛けた場合と同じになる|
 |**LSR**|A or memory shift right|繰り上がり無しで右シフトする。結果は数値を2で割った場合と同じになる|

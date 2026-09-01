@@ -68,7 +68,7 @@
 
 ## アキュムレータ、Xレジスタ、Yレジスタへのプル
 スタックの値をアキュムレータ、Xレジスタ、Yレジスタにプルするオペコードを紹介します。
-|Opcode|Full name|Explanation|
+|オペコード|正式名称|説明|
 |-|-|-|
 |**PLA**|Pull into A|Pulls a value from the stack into the A register|
 |**PLX**|Pull into X|Pulls a value from the stack into the X register|
