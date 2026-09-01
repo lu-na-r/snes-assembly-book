@@ -27,7 +27,7 @@
 
 ## プロセッサフラグとレジスタ
 * [プロセッサフラグ](processor/flags.md)
-* [プロセッサフラグの変更](processor/transfer.md)
+* [プロセッサフラグの変更](processor/repsep.md)
 * [レジスタ間転送](processor/transfer.md)
 * [スタックポインタ](processor/stackpointer.md)
 
