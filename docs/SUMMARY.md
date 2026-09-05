@@ -33,7 +33,7 @@
 
 ## 算術演算と論理演算
 * [算術演算](math/arithmetic.md)
-* [論理シフト](math/shift.md)
+* [ビットシフト](math/shift.md)
 * [論理演算](math/logic.md)
 * [ハードウェア演算](math/math.md)
 
