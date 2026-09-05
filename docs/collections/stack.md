@@ -70,9 +70,9 @@
 スタックの値をアキュムレータ、Xレジスタ、Yレジスタにプルするオペコードを紹介します。
 |オペコード|正式名称|説明|
 |-|-|-|
-|**PLA**|Pull into A|Pulls a value from the stack into the A register|
-|**PLX**|Pull into X|Pulls a value from the stack into the X register|
-|**PLY**|Pull into Y|Pulls a value from the stack into the Y register|
+|**PLA**|Pull into A|スタックから値をアキュムレータにプルする|
+|**PLX**|Pull into X|スタックから値をXレジスタにプルする|
+|**PLY**|Pull into Y|スタックから値をYレジスタにプルする|
 
 ## コード例
 「Xレジスタの値は$19のままにしたいけど、別の目的でXレジスタを使わないといけない」という状況に遭遇した場合、どうすれば解決できるでしょうか。
