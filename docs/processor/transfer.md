@@ -72,6 +72,6 @@ TYA                ; A = $xxAA, Y = $99AA
 |**TCD**|Transfer A to direct page register|アキュムレータが16-bitモードであるかどうかに関わらず、アキュムレータの16-bit値をダイレクトページレジスタに転送する|
 |**TDC**|Transfer direct page register to A|アキュムレータが16-bitモードであるかどうかに関わらず、ダイレクトページレジスタの16-bit値をアキュムレータに転送する|
 |**TCS**|Transfer A to stack pointer register|アキュムレータが16-bitモードであるかどうかに関わらず、アキュムレータの16-bit値をスタックポインタに転送する|
-|**TSC**|アキュムレータが16-bitモードであるかどうかに関わらず、スタックポインタの16-bit値をアキュムレータに転送する|
+|**TSC**|Transfer stack pointer register to A|アキュムレータが16-bitモードであるかどうかに関わらず、スタックポインタの16-bit値をアキュムレータに転送する|
 |**TXS**|Transfer X to stack pointer register|Xレジスタが16-bitモードであるかどうかに関わらず、Xレジスタの16-bit値をスタックポインタに転送する。なお、Xレジスタが8-bitモードのとき、その上位バイトは常に$00である|
 |**TSX**|Transfer stack pointer register to X|スタックポインタの16-bit値をXレジスタに転送する。なお、Xレジスタが8-bitモードのとき、その上位バイトは転送後も$00のままである|

@@ -54,7 +54,7 @@ JSLはJSRと同じ目的で使用されますが、どのバンクにもジャ�
 |**RTS**|Return from subroutine|JSRへリターンする|
 |**RTL**|Return from subroutine long|JSLへリターンする|
 
-JSRで呼び出されたサブルーチンはRTSによって、JSLで呼び出されたサブルーチンはRTLによって終了する。
+JSRで呼び出されたサブルーチンはRTSによって、JSLで呼び出されたサブルーチンはRTLによって終了します。
 
 ## JMP・JML
 関数の呼び出しではなく、コードフロー自体を制御したい場合、通常ジャンプを用いることができます。
